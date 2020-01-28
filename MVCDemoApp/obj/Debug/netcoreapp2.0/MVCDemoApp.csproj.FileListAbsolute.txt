@@ -1,0 +1,33 @@
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.deps.json
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.json
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.dev.json
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.dll
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.pdb
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csprojResolveAssemblyReference.cache
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfo.cs
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.dll
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.pdb
+E:\EG2\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.deps.json
+E:\EG2\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.json
+E:\EG2\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.dev.json
+E:\EG2\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.dll
+E:\EG2\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.pdb
+E:\EG2\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csprojAssemblyReference.cache
+E:\EG2\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csproj.CoreCompileInputs.cache
+E:\EG2\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfoInputs.cache
+E:\EG2\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfo.cs
+E:\EG2\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.dll
+E:\EG2\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.pdb
+E:\study\Net project\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.deps.json
+E:\study\Net project\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.json
+E:\study\Net project\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.dev.json
+E:\study\Net project\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.dll
+E:\study\Net project\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.pdb
+E:\study\Net project\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csproj.CoreCompileInputs.cache
+E:\study\Net project\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfoInputs.cache
+E:\study\Net project\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfo.cs
+E:\study\Net project\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.dll
+E:\study\Net project\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.pdb
+E:\study\Net project\CRUD.With.VS17.ADO-master (1)\CRUD.With.VS17.ADO-master\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csprojAssemblyReference.cache
